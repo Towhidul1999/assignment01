@@ -1,0 +1,117 @@
+body{
+    font-family: 'Xanh Mono', monospace;
+    background-color: rgb(221, 215, 215);
+}
+nav{
+    text-align: right;
+    margin-right: 60px;
+    text-decoration: none;
+}
+nav a{
+    text-decoration: none;
+    padding: 0px 10px 0px 0px;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color:rgb(104, 101, 101);
+}
+
+.top{
+    height: 600px;
+}
+img{
+    width: 100%;
+}
+span{
+    color:orange;
+}
+.half-side{
+    width: 35%;
+    float: left;
+    padding: 2%;
+    margin: 0px 5% 0 3%;
+}
+section.top-side {
+    height: 500px;
+}
+.link-button {
+    padding: 10px 20px;
+    color: #fff;
+    background-image: linear-gradient(180deg, #aa433d, #ffb300);
+    font-weight: bold;
+    margin-top: 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    float: left;
+}
+
+.top-banne2{
+    width: 100%;
+}
+.main-section{
+    width: 100%;
+    
+    height: 1300px;
+}
+.latest-work{
+    background-color: #F8F9FC;
+    width: 100%;
+    margin-left: 130px;
+}
+
+}
+.nd-img img{
+    width: 450px;
+}
+.half-width2{
+    transform: translate3d(94px, -453px, 10px);
+    float: left;
+    width: 50%;
+}
+.last-project{
+    font-size: 50px;
+    font-family: 'Xanh Mono', monospace;
+    text-align: center;
+}
+.project {
+    background-color: rgb(231, 227, 218);
+    display: inline-block;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 9px 9px rgba(15, 14, 14, 0.322);
+    padding: 10px;
+    margin: 20px;
+}
+.project img{
+  
+    border: 1px snow ;
+    width: 100%;
+}
+.contract-area{
+    background-color: rgb(204, 180, 126);
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 9px 9px rgba(15, 14, 14, 0.322);
+    padding: 10px;
+    margin: 10px;
+}
+.address-area{
+    margin-left: 20px;
+    margin-left: 45px
+}
+footer{
+    text-align: center;
+}
+
+
